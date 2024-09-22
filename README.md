@@ -17,6 +17,9 @@ Metricies used
 6.  Mean Squared Error
 7.  R2-Score
 
+#Scikit-learn
+
+Scikit-learn (sklearn) is a widely used Python library in machine learning, which we utilized in our project for tasks like data preprocessing and implementing algorithms for classification and regression. Its efficient tools for model evaluation and selection made it essential for our workflow.
 
 # Dataset Used
 
